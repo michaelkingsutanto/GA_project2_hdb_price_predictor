@@ -6,6 +6,8 @@
 
 > Authors: Han Kiong Ngan, Irfan Muzafar, Michael King Sutanto, Sue Si Min
 
+#### Project is limited to using only Linear Regression Model.
+
 ## **Problem Statement**
 
 Predicting HDB resale prices is vital for homeowners, buyers, and agents. An app with customizable parameters can offer valuable insights. For instance, the Tan family, with a child and considering upgrading from a 3-room to a 5-room flat, seeks fair market rates. By inputting criteria like flat type, preferred location, floor area, and lease commencement date, they can obtain accurate resale price predictions. This empowers them to make informed decisions, understand market dynamics, and navigate the buying and selling process confidently. Such tools cater to diverse stakeholders and enhance transparency in the housing market, ensuring fair deals for all parties involved.
