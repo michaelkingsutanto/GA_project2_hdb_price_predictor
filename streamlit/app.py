@@ -9,7 +9,7 @@ import pickle
 import pandas as pd
 
 # Load your model
-with open('hdb/lr_model.pkl', 'rb') as rf:
+with open('streamlit/lr_model.pkl', 'rb') as rf:
     model = pickle.load(rf)
 
 # Title
